@@ -126,7 +126,7 @@ const connectorOIDC = {
         queryParams: {
           info: 'These values will be used for query parameters for Authorization URL.',
           displayName: 'Query Params',
-          preferredControlType: 'keyValueList',
+          preferredControlType: 'keyValueList', 
           hideLabel: true,
           required: false,
         },
